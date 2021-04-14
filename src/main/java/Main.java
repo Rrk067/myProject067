@@ -3,8 +3,9 @@ public class Main {
 
         System.out.println("Hello World");
         System.out.println("first project");
-        System.out.println("third project");
+        System.out.println("third hello project");
+
     }
 
 
-}git st
+}
